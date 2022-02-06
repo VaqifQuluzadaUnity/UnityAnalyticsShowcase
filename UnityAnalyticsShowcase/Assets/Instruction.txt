@@ -1,0 +1,1 @@
+1)Be patient. Analytics events can take 8-16 hours to show on dashboard(maybe 3 days :D)
